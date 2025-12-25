@@ -31,7 +31,7 @@ const App: React.FC = () => {
         <h1 className="text-6xl md:text-8xl font-['Mountains_of_Christmas'] font-bold text-transparent bg-clip-text bg-gradient-to-r from-white via-pink-100 to-white drop-shadow-[0_0_25px_rgba(255,200,200,0.6)] leading-tight">
           Merry<br/>
           Christmas<br/>
-          <span className="font-['Zen_Maru_Gothic'] text-5xl md:text-7xl">杜梦涵</span>
+          <span className="font-['Zen_Maru_Gothic'] text-5xl md:text-7xl">程艺涵</span>
         </h1>
         <p className="mt-4 text-pink-200/80 font-light tracking-[0.2em] uppercase text-sm md:text-lg pl-2">
           Make a wish
